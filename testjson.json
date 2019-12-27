@@ -58,7 +58,7 @@
       "properties": {
         "id": "2",
         "color": "green",
-        "rank": "7",
+        "rank": "12",
         "ascii": "108"
       },
       "geometry": {
@@ -134,7 +134,7 @@
       "properties": {
        "id": "3",
         "color": "red",
-        "rank": "7",
+        "rank": "15",
         "ascii": "111"
       },
       "geometry": {
