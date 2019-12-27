@@ -59,7 +59,7 @@
         "id": "2",
         "color": "green",
         "rank": "7",
-        "ascii": "71"
+        "ascii": "108"
       },
       "geometry": {
         "type": "Polygon",
@@ -135,7 +135,7 @@
        "id": "3",
         "color": "red",
         "rank": "7",
-        "ascii": "71"
+        "ascii": "111"
       },
       "geometry": {
         "type": "Polygon",
