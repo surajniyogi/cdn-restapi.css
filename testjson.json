@@ -4,11 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-	"stroke-width": 2,
-	"stroke-opacity": 1,
-	"fill": "#e786e8",
-	"fill-opacity": 0.2
+        "id": "1",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
@@ -57,11 +56,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-	"stroke-width": 2,
-	"stroke-opacity": 1,
-	"fill": "#00aa22",
-	"fill-opacity": 0.2
+        "id": "2",
+        "color": "green",
+        "rank": "7",
+        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
@@ -134,11 +132,10 @@
   {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#0011ff",
-        "fill-opacity": 0.2
+       "id": "3",
+        "color": "red",
+        "rank": "7",
+        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
