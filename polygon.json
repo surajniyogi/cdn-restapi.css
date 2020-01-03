@@ -1,4 +1,3 @@
-{geojson:
 {
   "type": "FeatureCollection",
   "features": [
@@ -199,5 +198,4 @@
       }
     }    
   ]
-}
 }
