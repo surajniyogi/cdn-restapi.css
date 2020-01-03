@@ -130,9 +130,6 @@
       }
     },
     {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "letter": "o",
