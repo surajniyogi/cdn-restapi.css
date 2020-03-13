@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T4119",
+        "lastAlarm": "Stop 7, Off Route",
+        "missed": 2,
+        "delayed": 16,
+        "diverted": "1",
+        "wardno": 6,
+        "routeno": "2"
+    },
+    {
+        "id": 2,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T4219",
+        "lastAlarm": "Stop 21, Missed",
+        "missed": 5,
+        "delayed": 3,
+        "diverted": "3",
+        "wardno": 21,
+        "routeno": "1"
+    },
+    {
+        "id": 1,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T2119",
+        "lastAlarm": "Stop 19, Delayed",
+        "missed": 2,
+        "delayed": 2,
+        "diverted": 5,
+        "wardno": 32,
+        "routeno": "5"
+    }
+  ]
