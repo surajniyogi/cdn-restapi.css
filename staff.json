@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T4119",
+        "driver": "Pawan",
+        "cat": "primary",
+        "mob": 9874563210,
+    },
+    {
+        "id": 2,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T4219",
+        "driver": "Gagan",
+        "cat": "primary",
+        "mob": 9876543210,
+    },
+    {
+        "id": 1,
+        "deviceDate": "2020-03-12",
+        "vehNo": "HR38T2119",
+        "driver": "Neeraj",
+        "cat": "primary",
+        "mob": 1234567890,
+    }
+  ]
