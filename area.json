@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "vehNo": "HR38T4119",
+        "zone": 2,
+        "ward": 16,
+        "beat": "Sohna Road",
+        "route": [2,3]
+    },
+    {
+        "id": 2,
+        "vehNo": "HR38T4219",
+        "zone": 1,
+        "ward": 6,
+        "beat": "Madanpuri",
+        "route": 5,
+    },
+    {
+        "id": 1,
+        "vehNo": "HR38T2119",
+        "zone": 4,
+        "ward": 32,
+        "beat": "Badshahpur Main",
+        "route": [1,4],
+    }
+  ]
